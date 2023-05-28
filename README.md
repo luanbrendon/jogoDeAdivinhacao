@@ -9,6 +9,7 @@ Um simples jogo de adivinhação onde você precisa adivinhar um número gerado 
    git clone https://github.com/seuusuario/jogo-adivinhacao.git
    
 ##Navegue até o diretório do projeto:
+
 cd jogo-adivinhacao
 
 ##Compile o código-fonte:
