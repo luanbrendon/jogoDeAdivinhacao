@@ -34,6 +34,7 @@ Digite um número: 63
 Parabéns, você acertou o número!
 
 
+
 ## Contribuição
 
 Contribuições são bem-vindas! Se você quiser contribuir para o aprimoramento deste jogo, siga estas etapas:
