@@ -25,13 +25,13 @@ java Main
 - Se você não conseguir acertar dentro das 5 tentativas, o número correto será revelado.
 
 ## Exemplo de Uso
-Tente Adivinhar o número entre 0 e 100:
-Digite um número: 50
-Tente novamente, o número digitado é menor!
-Digite um número: 75
-Tente novamente, o número digitado é maior!
-Digite um número: 63
-Parabéns, você acertou o número!
+- Tente Adivinhar o número entre 0 e 100:
+- Digite um número: 50
+- Tente novamente, o número digitado é menor!
+- Digite um número: 75
+- Tente novamente, o número digitado é maior!
+- Digite um número: 63
+- Parabéns, você acertou o número!
 
 
 
